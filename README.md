@@ -1,4 +1,4 @@
-# To-Do List Application
+# To-Do Application
 
 ## Overview
 This project is a simple and interactive To-Do List web application that allows users to add, delete, and filter tasks. The application uses JavaScript for dynamic interactions and local storage to retain tasks across sessions.
